@@ -1,0 +1,8 @@
+6 Best Websites to learn Microsoft Azure Cloud Platform for FREE in 2026
+
+1. Udemy: One of the best resources to learn Microsoft Azure cloud is Udemy
+2. Coursera: is another great platform to learn Cloud Computing as it offered structured and well designed online courses and certifications from world class universities or organizations like Google, IBM, AWS itself.
+3. Microsoft Azure Learning Portal (Free): This one is the official learning portal of Microsoft where you can learn everything about Azure.
+4. edX: Another interesting platform that as well offer courses from top universities such as Harvard and Massachusetts and other top organizations called edX and you can the best courses as well on this e-learning website at an affordable price.
+5. Pluralsight: is another great platform to learn in-demand tech skills like Cloud Computing.
+6. Cloud Academy: this e-learning website offering many courses and certifications about the Microsoft Azure cloud and how to master the skills of using it and deploying your applications.
