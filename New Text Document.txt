@@ -1,8 +1,24 @@
-6 Best Websites to learn Microsoft Azure Cloud Platform for FREE in 2026
+5 Best Udemy Course for Azure Databricks & Spark for Data Engineers in 2026
 
-1. Udemy: One of the best resources to learn Microsoft Azure cloud is Udemy
-2. Coursera: is another great platform to learn Cloud Computing as it offered structured and well designed online courses and certifications from world class universities or organizations like Google, IBM, AWS itself.
-3. Microsoft Azure Learning Portal (Free): This one is the official learning portal of Microsoft where you can learn everything about Azure.
-4. edX: Another interesting platform that as well offer courses from top universities such as Harvard and Massachusetts and other top organizations called edX and you can the best courses as well on this e-learning website at an affordable price.
-5. Pluralsight: is another great platform to learn in-demand tech skills like Cloud Computing.
-6. Cloud Academy: this e-learning website offering many courses and certifications about the Microsoft Azure cloud and how to master the skills of using it and deploying your applications.
+1. Databricks - Master Azure Databricks for Data Engineers: Learn Azure Databricks for professional data engineers using PySpark and Spark SQL with an end-to-end capstone project
+
+Created by: Prashant Kumar Pandey
+
+2. Databricks Certified Data Engineer Professional -Preparation: Preparation for Databricks Data Engineer Professional certification exam with hands-on training
+
+Created by: Derar Alhussein
+
+3. Databricks, Spark ETL & Delta Lake Data Engineering Mastery: Learn Databricks from Spark ETL to Unity Catalog and Medallion pipelines to build scalable, high-impact data workflows
+
+Created by: Oak Academy
+
+
+4. End to End Azure Data Engineering Real Time Project- 3 Hours: Azure Data Engineer Project using the modern Data Tools like ADF, Azure Databricks, Azure Synapse Analytics, ADLS Gen2
+
+Created by: Mr. K Talks Tech
+
+5. Azure Databricks & Spark for Data Engineers:Hands-on Project: Real World Project on Formula1 using Databricks, Spark, Delta Lake, Unity Catalog, Lakeflow Jobs
+Bestseller
+
+Created by: Ramesh Retnasamy
+
